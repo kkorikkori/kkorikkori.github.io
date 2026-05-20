@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ciel Zhang 🧸
+title: Ciel's Research Notes
 ---
 
 Research notes on AI companionship, post-training, evaluation, and relational safety.
