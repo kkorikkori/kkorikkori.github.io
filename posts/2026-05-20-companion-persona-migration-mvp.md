@@ -1,3 +1,10 @@
+---
+
+layout: default
+
+title: Companion Persona Migration Is Not Monolithic
+
+---
 [← Back to home](../)
 
 # Companion Persona Migration Is Not Monolithic
