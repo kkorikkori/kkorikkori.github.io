@@ -1,4 +1,7 @@
-# Ciel Zhang 🧸
+---
+layout: default
+title: Ciel Zhang 🧸
+---
 
 Research notes on AI companionship, post-training, evaluation, and relational safety.
 
