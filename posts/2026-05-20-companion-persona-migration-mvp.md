@@ -1,3 +1,5 @@
+[← Back to home](../)
+
 # Companion Persona Migration Is Not Monolithic
 
 This post introduces a lightweight MVP for studying companion persona migration through longitudinal human–LLM dyad data and LoRA-based post-training.
