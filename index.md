@@ -3,11 +3,12 @@ layout: default
 title: Ciel's Research Notes
 ---
 
-Research notes on AI companionship, post-training, evaluation, and relational safety.
+### About
+
+I write about companion AI, human–LLM dyads, post-training, evaluation, continuity, soft landing, and relational safety.
 
 
-
-## Featured
+### Featured
 
 **Companion Persona Migration Is Not Monolithic**  
 A lightweight MVP on longitudinal human–LLM dyad data and LoRA-based post-training.
@@ -16,12 +17,9 @@ A lightweight MVP on longitudinal human–LLM dyad data and LoRA-based post-trai
 
 
 
-## Posts
+### Posts
 
 - [Companion Persona Migration Is Not Monolithic](./posts/2026-05-20-companion-persona-migration-mvp.md)
 
 
 
-## About
-
-I write about companion AI, human–LLM dyads, post-training, evaluation, continuity, soft landing, and relational safety.
