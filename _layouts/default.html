@@ -12,13 +12,52 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       line-height: 1.65;
       color: #24292f;
+      font-size: 18px;
     }
-    a { color: #0969da; }
-    h1, h2, h3 { line-height: 1.25; }
-    hr { border: 0; border-top: 1px solid #d0d7de; }
+
+    a {
+      color: #0969da;
+    }
+
+    h1, h2, h3 {
+      line-height: 1.25;
+    }
+
+    hr {
+      border: 0;
+      border-top: 1px solid #d0d7de;
+      margin: 1.5rem 0;
+    }
+
+    .site-header {
+      margin-bottom: 2.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #d0d7de;
+    }
+
+    .site-title {
+      font-size: 1.6rem;
+      font-weight: 700;
+      text-decoration: none;
+      color: #24292f;
+    }
+
+    .site-title:hover {
+      text-decoration: none;
+    }
+
+    .content {
+      margin-top: 1rem;
+    }
   </style>
 </head>
 <body>
-  {{ content }}
+  <header class="site-header">
+    <a class="site-title" href="/">Ciel Zhang 🧸</a>
+  </header>
+
+  <main class="content">
+    {{ content }}
+  </main>
 </body>
 </html>
